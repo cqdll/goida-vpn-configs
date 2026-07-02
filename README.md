@@ -66,7 +66,7 @@
 |--|--|--|--|--|
 | 1 | [`1.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/1.txt) | [sakha1370/OpenRay](https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt) | 21:48 (МСК) | 02.07.2026 |
 | 2 | [`2.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/2.txt) | [sevcator/5ubscrpt10n](https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt) | 21:48 (МСК) | 02.07.2026 |
-| 3 | [`3.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt) | [yitong2333/proxy-minging](https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt) | 23:12 | 02.07.2026 |
+| 3 | [`3.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/3.txt) | [yitong2333/proxy-minging](https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt) | 23:16 | 02.07.2026 |
 | 4 | [`4.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/4.txt) | [acymz/AutoVPN](https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt) | 21:48 (МСК) | 02.07.2026 |
 | 5 | [`5.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/5.txt) | [miladtahanian/V2RayCFGDumper](https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt) | 21:48 (МСК) | 02.07.2026 |
 | 6 | [`6.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/6.txt) | [roosterkid/openproxylist](https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt) | 21:48 (МСК) | 02.07.2026 |
@@ -89,7 +89,7 @@
 | 23 | [`23.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt) | [AzadNetCH/Clash](https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt) | 20:12 (МСК) | 02.07.2026 |
 | 24 | [`24.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/24.txt) | [STR97/STRUGOV](https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE) | 21:48 (МСК) | 02.07.2026 |
 | 25 | [`25.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/25.txt) | [V2RayRoot/V2RayConfig](https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt) | 20:12 (МСК) | 02.07.2026 |
-| 26 | [`26.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | [Обход SNI/CIDR белых списков](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | 23:12 | 02.07.2026 |
+| 26 | [`26.txt`](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | [Обход SNI/CIDR белых списков](https://github.com/cqdll/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt) | 23:16 | 02.07.2026 |
 
 ## 📊 Статистика репозитория
 | Показатель | Значение |
